@@ -30,3 +30,37 @@ Everything was programmed in Python. A simple script was used to handle mouse an
 -Bundle all the frameworks and dependancies into a compiled package   
 -Improve UI so that users can write and toggle their own commands   
 -Make the GUI less aggressive and automatically hidden unless triggered   
+
+List of Commands   
+Open an App   
+-App   
+-Application   
+-launch   
+-launch  
+
+Search
+-google   
+-search   
+-look up   
+
+Go to URL   
+-open   
+-goto   
+-website   
+
+Move Mouse   
+-move   
+-cursor   
+
+Scroll   
+-scroll   
+-up   
+-down   
+
+Click   
+-click   
+-press   
+
+Type   
+-type   
+-input   
