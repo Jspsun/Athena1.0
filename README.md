@@ -31,36 +31,36 @@ Everything was programmed in Python. A simple script was used to handle mouse an
 -Improve UI so that users can write and toggle their own commands   
 -Make the GUI less aggressive and automatically hidden unless triggered   
 
-List of Commands   
-Open an App   
+##List of Commands   
+###Open an App   
 -App   
 -Application   
 -launch   
 -launch  
 
-Search
+###Search
 -google   
 -search   
 -look up   
 
-Go to URL   
+###Go to URL   
 -open   
 -goto   
 -website   
 
-Move Mouse   
+###Move Mouse   
 -move   
 -cursor   
 
-Scroll   
+###Scroll   
 -scroll   
 -up   
 -down   
 
-Click   
+###Click   
 -click   
 -press   
 
-Type   
+###Type   
 -type   
 -input   
