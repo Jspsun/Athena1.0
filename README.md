@@ -32,7 +32,7 @@ Everything was programmed in Python. A simple script was used to handle mouse an
 -Make the GUI less aggressive and automatically hidden unless triggered   
 
 ## List of Commands   
-###Open an App   
+### Open an App   
 -App   
 -Application   
 -launch   
