@@ -1,5 +1,7 @@
 # A python voice controller
 
+# Athena1.0 is depreciated. I've rebuilt it [here](https://github.com/Jspsun/Athena)
+
 ## A Bit of Inspiration
 We set out with the goal of being able to automate the tedious tasks that one does on a day-to-day basis. Really just the simple things that can just be done a lot more conveniently. This meant opening web pages, applications etc. Gradually, we realized that we had stumbled upon a great way to enable the differently abled to access computers. At this point, we began to prioritize the ease of use on part of the user. By incorporating an OCR, we were able to locate (and click) elements like buttons that traditional web page analyzers cannot. By the end, We had extended to the ability to control computer peripherals beyond just a mouse to the keyboard as well. To top it all off, we created a variety of "voice-triggerable" scripts that make computer usage even more of a breeze!
 
